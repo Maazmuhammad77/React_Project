@@ -2,7 +2,8 @@ import React from 'react'
 
 const Hehe = () => {
   return (
-    <div>Hehe</div>
+    <div>Hehe <span>haha</span></div>
+
   )
 }
 
